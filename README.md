@@ -1,4 +1,8 @@
-### 동국대학교 정보통신공학과 17학번 박정무입니다. 🤔
+### 박정무입니다. 🤔
+- Dongguk.univ ICE 17
+- Datamining lab researcher
+- I'm interst in NLP, Web
+- Email : madogisa12@naver.com
 
 <!--
 **qkrwjdan/qkrwjdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
