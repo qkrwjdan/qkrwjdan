@@ -1,7 +1,7 @@
 ### 박정무입니다. 🤔
 - Dongguk.univ ICE 17
 - Datamining lab researcher
-- I'm interst in NLP, Web
+- I'm interest in NLP, Web
 - Email : madogisa12@naver.com
 
 <!--
