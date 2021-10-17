@@ -1,10 +1,11 @@
 ### 박정무입니다. 🤔
+
+
+<!--
 - 👯 Dongguk.univ ICE 17
 - 🔭 Datamining lab researcher
 - 🌱 I'm interest in NLP, Web
 - 📫 Email : madogisa12@naver.com
-
-<!--
 **qkrwjdan/qkrwjdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
