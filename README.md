@@ -26,9 +26,9 @@
 
 ### What did I do?
 #### 2022
-- **[TAKEUS](https://take--us.web.app/) (Backend)**  
+- **[TAKEUS](https://www.take-us.kr/) (Backend)**  
     유기견 해외 이동봉사 정보 플랫폼 [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
-- **[Emotional Chatbot](https://www.dguchatbot.site/) (NLP,Web)**  
+- Emotional Chatbot (NLP,Web)**  
     감정적인 대화를 할 수 있는 감성 챗봇  
 #### 2021
 - **Dacon news topic classification (NLP)**  
