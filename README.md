@@ -5,6 +5,7 @@
 - 2018 ~ : Team GMH ( Information & Communication Startups Club )
 - 2021 ~ : Dongguk University Datamining lab 
 - 2021 ~ : SOPT 28th, 30th Server Part  
+- 2022.01 ~ 2022.05 : Incross Ad플랫폼개발실 Intern
 - 2022 ~ : Software Maestro 13th 
 
 ### Interests
