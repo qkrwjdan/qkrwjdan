@@ -29,7 +29,7 @@
 #### 2022
 - **[TAKEUS](https://www.take-us.kr/) (Backend)**  
     유기견 해외 이동봉사 정보 플랫폼 [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
-- Emotional Chatbot (NLP,Web)**  
+- **[Emotional Chatbot](https://echatbot.site/) (NLP,Web)**  
     감정적인 대화를 할 수 있는 감성 챗봇  
 #### 2021
 - **Dacon news topic classification (NLP)**  
@@ -40,6 +40,6 @@
 #### 2020
 - **GloVR (system)**  
     뇌졸중 환자를 위한 VR 상지 재활 시스템  [Github](https://github.com/qkrwjdan/2020ESWContest_free_1097)
-- **[정보통신공학과 전자장부](http://jungmoo.pythonanywhere.com/)(Web)**  
+- **정보통신공학과 전자장부(Web)**  
     투명한 장부관리를 위한 전자장부 서비스  [Github](https://github.com/qkrwjdan/iceProject)
 
