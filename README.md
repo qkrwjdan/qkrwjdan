@@ -43,3 +43,5 @@
 - **정보통신공학과 전자장부(Web)**  
     투명한 장부관리를 위한 전자장부 서비스  [Github](https://github.com/qkrwjdan/iceProject)
 
+포토폴리오 : [LINK](https://fog-turtle-77a.notion.site/Jungmu-Park-bb970366ad974162a1f1b932ac12faee)
+
