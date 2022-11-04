@@ -1,12 +1,12 @@
 ## 박붕어입니다.
 
 ### Team || Group || Organization
-- 2017 ~ : Dongguk University, Dept of Information & Communication Engineering
-- 2018 ~ : Team GMH ( Information & Communication Startups Club )
-- 2021 ~ : Dongguk University Datamining lab 
-- 2021 ~ : SOPT 28th, 30th Server Part  
+- 2017.03 ~ 2023.02 : Dongguk University, Dept of Information & Communication Engineering
+- 2020.12 ~ 2023.02 : Dongguk University Datamining lab 
+- 2021.07 ~ 2022.07 : SOPT 28th, 30th Server Part  
 - 2022.01 ~ 2022.05 : Incross Ad플랫폼개발실 Intern
-- 2022 ~ : Software Maestro 13th 
+- 2022.04 ~ 2022.12 : Software Maestro 13th 
+- 2022.10 ~ 2023.01 : SOPT makers 1th 
 
 ### Interests
 - 사람들의 삶을 편리하게 가치있게 변화시키고 싶습니다. 
@@ -27,6 +27,8 @@
 
 ### What did I do?
 #### 2022
+- **PICKSHOT (Infra, Backend)**  
+    칵테일 레시피 공유 SNS 어플리케이션 [IOS](https://apps.apple.com/kr/app/pickshot/id1639201935) [AOS](https://play.google.com/store/apps/details?id=com.cheetah.pickshot)  
 - **[TAKEUS](https://www.take-us.kr/) (Backend)**  
     유기견 해외 이동봉사 정보 플랫폼 [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
 - **[Emotional Chatbot](https://echatbot.site/) (NLP,Web)**  
