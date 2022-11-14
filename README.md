@@ -27,7 +27,7 @@
 
 ### What did I do?
 #### 2022
-- **PICKSHOT (Infra, Backend)**  
+- **[PICKSHOT](http://www.pickshot.shop) (Infra, Backend)**  
     칵테일 레시피 공유 SNS 어플리케이션 [IOS](https://apps.apple.com/kr/app/pickshot/id1639201935) [AOS](https://play.google.com/store/apps/details?id=com.cheetah.pickshot)  
 - **[TAKEUS](https://www.take-us.kr/) (Backend)**  
     유기견 해외 이동봉사 정보 플랫폼 [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
