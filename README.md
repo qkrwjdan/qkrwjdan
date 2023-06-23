@@ -7,7 +7,7 @@
 - 2022.01 ~ 2022.05 : Incross Ad플랫폼개발실 Intern
 - 2022.04 ~ 2022.12 : Software Maestro 13th 
 - 2022.10 ~ 2023.01 : SOPT makers 1th
-- 2023.01 ~ : LINE MongoDB 
+- 2023.01 ~ : LINE+ MongoDB 
 
 ### Interests
 - 사람들의 삶을 편리하게 가치있게 변화시키고 싶습니다. 
