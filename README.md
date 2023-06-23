@@ -6,7 +6,8 @@
 - 2021.07 ~ 2022.07 : SOPT 28th, 30th Server Part  
 - 2022.01 ~ 2022.05 : Incross Ad플랫폼개발실 Intern
 - 2022.04 ~ 2022.12 : Software Maestro 13th 
-- 2022.10 ~ 2023.01 : SOPT makers 1th 
+- 2022.10 ~ 2023.01 : SOPT makers 1th
+- 2023.01 ~ : LINE MongoDB 
 
 ### Interests
 - 사람들의 삶을 편리하게 가치있게 변화시키고 싶습니다. 
@@ -44,6 +45,4 @@
     뇌졸중 환자를 위한 VR 상지 재활 시스템  [Github](https://github.com/qkrwjdan/2020ESWContest_free_1097)
 - **정보통신공학과 전자장부(Web)**  
     투명한 장부관리를 위한 전자장부 서비스  [Github](https://github.com/qkrwjdan/iceProject)
-
-포토폴리오 : [LINK](https://fog-turtle-77a.notion.site/Jungmu-Park-bb970366ad974162a1f1b932ac12faee)
 
