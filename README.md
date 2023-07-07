@@ -46,3 +46,5 @@
 - **정보통신공학과 전자장부(Web)**  
     투명한 장부관리를 위한 전자장부 서비스  [Github](https://github.com/qkrwjdan/iceProject)
 
+### Contribution
+- https://github.com/mongodb/mongo-python-driver/pull/1289
