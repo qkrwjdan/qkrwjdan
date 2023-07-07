@@ -1,17 +1,17 @@
-## 박붕어입니다.
+## Hi. I'm Jeongmu Park.
 
 ### Team || Group || Organization
 - 2017.03 ~ 2023.02 : Dongguk University, Dept of Information & Communication Engineering
 - 2020.12 ~ 2023.02 : Dongguk University Datamining lab 
 - 2021.07 ~ 2022.07 : SOPT 28th, 30th Server Part  
-- 2022.01 ~ 2022.05 : Incross Ad플랫폼개발실 Intern
+- 2022.01 ~ 2022.05 : Ad Platform Development Intern. at Incross corporation. 
 - 2022.04 ~ 2022.12 : Software Maestro 13th 
 - 2022.10 ~ 2023.01 : SOPT makers 1th
 - 2023.01 ~ : LINE+ MongoDB 
 
 ### Interests
-- 사람들의 삶을 편리하게 가치있게 변화시키고 싶습니다. 
-- 개발은 도구일 뿐이지만 정말 매우 엄청 좋은 도구라고 생각합니다.  
+- I'm interesting in changing the world for the better. 
+- Development is just a tool. But it is really good tool. 
 
 ### Skills
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
@@ -27,24 +27,30 @@
 <br>
 
 ### What did I do?
+#### 2023
+- I'm Working in LINE+ as a MongoDB DBA. 
+- I Maked MongoDB Basic VOD for developer. 
+- I improved Log File Monitoring System of MongoDB and saved about 30,000,000 won used to license fees and infra cost per year. 
+
 #### 2022
 - **[PICKSHOT](http://www.pickshot.shop) (Infra, Backend)**  
-    칵테일 레시피 공유 SNS 어플리케이션 [IOS](https://apps.apple.com/kr/app/pickshot/id1639201935) [AOS](https://play.google.com/store/apps/details?id=com.cheetah.pickshot)  
+    SNS application for sharing cocktail recipes [IOS](https://apps.apple.com/kr/app/pickshot/id1639201935) [AOS](https://play.google.com/store/apps/details?id=com.cheetah.pickshot)  
 - **[TAKEUS](https://www.take-us.kr/) (Backend)**  
-    유기견 해외 이동봉사 정보 플랫폼 [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
+    Web platform for flight volunteer  [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
 - **[Emotional Chatbot](https://echatbot.site/) (NLP,Web)**  
-    감정적인 대화를 할 수 있는 감성 챗봇  
+    emotional chatbot that can have emotional conversations. 
+
 #### 2021
 - **Dacon news topic classification (NLP)**  
-    데이콘 뉴스 토픽분류 경진대회 [Github](https://github.com/qkrwjdan/dacon_news_topic_clasiification)  
+    11th at Dacon news topic classification. [Github](https://github.com/qkrwjdan/dacon_news_topic_clasiification)  
 - **Panopticon (Web, ML)**  
-    부정행위를 검출하는 비대면 시험 플랫폼 [Github](https://github.com/qkrwjdan/Panopticon)  
+    Online assessment platform to detect and prevent cheating. [Github](https://github.com/qkrwjdan/Panopticon)  
 
 #### 2020
 - **GloVR (system)**  
-    뇌졸중 환자를 위한 VR 상지 재활 시스템  [Github](https://github.com/qkrwjdan/2020ESWContest_free_1097)
-- **정보통신공학과 전자장부(Web)**  
-    투명한 장부관리를 위한 전자장부 서비스  [Github](https://github.com/qkrwjdan/iceProject)
+    VR Upper Limb Rehabilitation System for Stroke Patients. [Github](https://github.com/qkrwjdan/2020ESWContest_free_1097)
+- **Online ledger of Information and Communication Engineering Department(Web)**  
+    Online ledger service for transparent student fees managment.  [Github](https://github.com/qkrwjdan/iceProject)
 
 ### Contribution
 - https://github.com/mongodb/mongo-python-driver/pull/1289
