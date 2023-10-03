@@ -37,7 +37,7 @@
     SNS application for sharing cocktail recipes. [IOS](https://apps.apple.com/kr/app/pickshot/id1639201935) [AOS](https://play.google.com/store/apps/details?id=com.cheetah.pickshot)  
 - **[TAKEUS](https://www.take-us.kr/) (Backend)**  
     Web platform for flight volunteer. [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
-- **[Emotional Chatbot](https://echatbot.site/) (NLP,Web)**  
+- **Emotional Chatbot (NLP,Web)**  
     emotional chatbot that can have emotional conversations. 
 
 #### 2021
