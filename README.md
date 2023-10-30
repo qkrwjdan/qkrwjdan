@@ -30,7 +30,6 @@
 #### 2023
 - I'm Working in LINE+ as a MongoDB DBA. 
 - I Maked MongoDB Basic VOD for developer. 
-- I improved Log File Monitoring System of MongoDB and saved about 30,000,000 won used to license fees and infra cost per year. 
 
 #### 2022
 - **[PICKSHOT](http://www.pickshot.shop) (Infra, Backend)**  
