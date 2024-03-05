@@ -28,8 +28,8 @@
 
 ### What did I do?
 #### 2023
-- I'm Working in LINE+ as a MongoDB DBA. 
-- I Maked MongoDB Basic VOD for developer. 
+- I'm working in LINE+ as a MongoDB DBA. 
+- I made MongoDB Basic VOD for developer. 
 
 #### 2022
 - **[PICKSHOT](http://www.pickshot.shop) (Infra, Backend)**  
