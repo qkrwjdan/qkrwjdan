@@ -32,8 +32,6 @@
 - I made MongoDB Basic VOD for developer. 
 
 #### 2022
-- **[PICKSHOT](http://www.pickshot.shop) (Infra, Backend)**  
-    SNS application for sharing cocktail recipes. [IOS](https://apps.apple.com/kr/app/pickshot/id1639201935) [AOS](https://play.google.com/store/apps/details?id=com.cheetah.pickshot)  
 - **[TAKEUS](https://www.take-us.kr/) (Backend)**  
     Web platform for flight volunteer. [Github](https://github.com/TAKE-US/TAKEUS-BACK)  
 - **Emotional Chatbot (NLP,Web)**  
